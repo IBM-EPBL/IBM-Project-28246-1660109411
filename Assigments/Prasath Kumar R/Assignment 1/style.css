@@ -1,0 +1,42 @@
+.person_img{
+    height:150px;
+    width: 120px;
+    border: 2px solid grey;
+    box-shadow: 10px 10px 5px  #ccc;
+}
+
+.pic{
+    position:relative;
+    left: 15px;
+}
+.head{
+    text-align: center;
+    color: blueviolet;            
+}
+.head :hover{
+    color: red;
+}
+body{
+    background-color:whitesmoke ;
+    
+}
+
+.w3-container{
+    width:500px;
+    position: relative;
+    bottom: 10px;
+       
+   }
+.container{
+    width:auto;
+    position: relative;
+    left: 15px;
+    
+}
+p{
+    position: relative;
+    
+    font-family:Verdana ;
+    font-style: italic;
+    font-size: medium;
+}
