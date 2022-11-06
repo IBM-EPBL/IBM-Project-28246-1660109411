@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Authentication-Register User</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+  </head>
+  <body>
+    <main>
+      <form class="form contact-form" action="{{ url_for('register') }}" method="post">
+        <div class="msg">{{ msg }}</div>
+        <h5>Register</h5>
+        <div class="form-row">
+          <label for="username"  class="form-label">username</label>
+          <input id="username" type="text" name="username" class="form-input username-input" />
+        </div>
+        <div class="form-row">
+          <label for="inputEmail" class="form-label">Email</label>
+          <input id="email" type="email" name="email" class="form-input inputEmail" />
+        </div>
+        <div class="form-row">
+          <label for="password" class="form-label">password</label>
+          <input id="password" type="password" name="password" class="form-input password-input" />
+        </div>
+        <div class="text-small form-alert">there was an error</div>
+        <button type="submit" class="btn btn-block">sign up</button>
+        
+	<p class="bottom"> Already have an account? <a class="bottom" href="{{url_for('login')}}"> Sign In here</a></p>
+</form>
+    </main>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+      integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </body>
+</html>
