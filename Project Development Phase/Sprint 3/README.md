@@ -1,4 +1,4 @@
-# SPRINT 1
+# SPRINT 3
 
 ## In this phase we completed the following topics:
 - Completed the entire authentication system
