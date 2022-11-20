@@ -9,7 +9,7 @@
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
 | Team Leader   |    **MAZIN MOHAMMAD SAYEED**   |
-| Team Member 1 |   **MUKAISH KUMAR**  |
+| Team Member 1 |   [**MUKAISH KUMAR**](https://github.com/mukaish-kumar)  | 
 | Team Member 2 |  **PRANEET KUMAR B**  |
 | Team Member 3 | **PRASATH KUMAR R** |
 
