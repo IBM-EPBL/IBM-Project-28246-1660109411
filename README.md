@@ -8,10 +8,10 @@
 # Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   |    **MAZIN MOHAMMAD SAYEED**   |
+| Team Leader   |    [**MAZIN MOHAMMAD SAYEED**](https://github.com/MAZINMOHAMMADSAYEED)   |
 | Team Member 1 |   [**MUKAISH KUMAR**](https://github.com/mukaish-kumar)  | 
-| Team Member 2 |  **PRANEET KUMAR B**  |
-| Team Member 3 | **PRASATH KUMAR R** |
+| Team Member 2 |  [**PRANEET KUMAR B**](https://github.com/Praneet216)  |
+| Team Member 3 | [**PRASATH KUMAR R**](https://github.com/Prasath28) |
 
 ## URLs for the site:
 - [Demo video link](https://youtu.be/lPEWs2woQaE)
